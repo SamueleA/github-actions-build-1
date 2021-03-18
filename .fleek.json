@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "aeabc95c-c876-46c0-95ad-612cf2964b99",
+    "team": "samuele-fleek2-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "red-shape-6681"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "rootDir": ""
+  }
+}
